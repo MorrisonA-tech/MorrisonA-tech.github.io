@@ -36,9 +36,16 @@
 			</ul>
 		</nav>
 
+		<script>
+			function reloadIframe(id) {
+				var iframe = document.getElementById(id);
+				var iframeSrc = iframe.src;
+				iframe.src = iframeSrc;
+			}
+		</script>
+
 		<!-- Main -->
 		<div id="main" class="alt">
-
 			<!-- One -->
 			<section id="one">
 				<div class="inner">
@@ -46,7 +53,10 @@
 						<h1>BoardFour</h1>
 					</header>
 					<p>Connect four type game in python.</p>
-					<iframe src="pythonProjects/boardfour/boardfour.html" style="width:90%" ; height="800"></iframe>
+					<button type="button" onclick="reloadIframe('boardfour-iframe-id')">Reload</button>
+					<br />
+					<br />
+					<iframe id="boardfour-iframe-id" src="pythonProjects/boardfour/boardfour.html" style="width:90%" ; height="800"></iframe>
 
 
 				</div>
