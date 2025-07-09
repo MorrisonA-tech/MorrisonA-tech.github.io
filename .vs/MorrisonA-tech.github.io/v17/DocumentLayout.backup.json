@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\resume.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resume.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\code.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -31,14 +43,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "resume.html",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\resume.html",
+              "RelativeDocumentMoniker": "resume.html",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\resume.html",
+              "RelativeToolTip": "resume.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAE8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T00:17:46.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "code.html",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\code.html",
+              "RelativeDocumentMoniker": "code.html",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\code.html",
+              "RelativeToolTip": "code.html",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T00:16:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "projects.html",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\projects.html",
+              "RelativeDocumentMoniker": "projects.html",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\projects.html",
+              "RelativeToolTip": "projects.html",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAJ0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T00:15:36.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\antho\\source\\repos\\MorrisonA-tech\\MorrisonA-tech.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAKYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-11T16:46:16.508Z",
+              "WhenOpened": "2025-07-09T00:14:21.174Z",
               "EditorCaption": ""
             }
           ]
