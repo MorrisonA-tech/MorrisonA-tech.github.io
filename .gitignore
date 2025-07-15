@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/.vs/*
+/.vs/MorrisonA-tech.github.io/FileContentIndex/01b466db-5c7d-4882-be84-59ed37d8c90a.vsidx
+/.vs/MorrisonA-tech.github.io/FileContentIndex/0dd98e4e-11f9-430d-80c5-4747aec3fe73.vsidx
+/.vs/MorrisonA-tech.github.io/FileContentIndex/27eefe7b-340b-43d0-8163-2e4c21ba2143.vsidx
+/.vs/MorrisonA-tech.github.io/FileContentIndex/8dfc3038-559a-44ca-8bf0-65bf1c9421a6.vsidx
+/.vs/MorrisonA-tech.github.io/FileContentIndex/977bca70-dc44-46b1-bad7-80a87743bb3c.vsidx
+/.gitignore
+/.vs/MorrisonA-tech.github.io/v17/.wsuo
+/.vs/MorrisonA-tech.github.io/v17/DocumentLayout.backup.json
+/.vs/MorrisonA-tech.github.io/v17/DocumentLayout.json
+/.vs/slnx.sqlite
